@@ -1,11 +1,11 @@
 {
   "research_topic": "Improve automated red-teaming systems on diverse adversarial scenario generation by developing LLM-based systems that automatically generate diverse adversarial scenarios focusing on rare edge cases and compositional attacks.",
   "queries": [
-    "LLM-based red teaming",
-    "adversarial scenario generation",
-    "rare edge-case scenarios",
-    "compositional adversarial attacks",
-    "diverse adversarial synthesis"
+    "LLM based scenario generation",
+    "automated red teaming",
+    "edge case adversarial attacks",
+    "compositional adversarial examples",
+    "diversity driven adversarial testing"
   ],
   "research_study_list": [
     {
