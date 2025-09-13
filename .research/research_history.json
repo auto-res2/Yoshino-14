@@ -6,5 +6,157 @@
     "rare edge-case scenarios",
     "compositional adversarial attacks",
     "diverse adversarial synthesis"
+  ],
+  "research_study_list": [
+    {
+      "title": "HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal"
+    },
+    {
+      "title": "Curiosity-driven Red-teaming for Large Language Models"
+    },
+    {
+      "title": "Rainbow Teaming: Open-Ended Generation of Diverse Adversarial Prompts"
+    },
+    {
+      "title": "NYU CTF Bench: A Scalable Open-Source Benchmark Dataset for Evaluating LLMs in Offensive Security"
+    },
+    {
+      "title": "AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases"
+    },
+    {
+      "title": "Tree of Attacks: Jailbreaking Black-Box LLMs Automatically"
+    },
+    {
+      "title": "COLD-Attack: Jailbreaking LLMs with Stealthiness and Controllability"
+    },
+    {
+      "title": "Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents"
+    },
+    {
+      "title": "Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!"
+    },
+    {
+      "title": "Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!"
+    },
+    {
+      "title": "SafeBench: A Benchmarking Platform for Safety Evaluation of Autonomous Vehicles"
+    },
+    {
+      "title": "Scenario Diffusion: Controllable Driving Scenario Generation With Diffusion"
+    },
+    {
+      "title": "Adversarial training for high-stakes reliability"
+    },
+    {
+      "title": "A Diffusion-Model of Joint Interactive Navigation"
+    },
+    {
+      "title": "ChatScene: Knowledge-Enabled Safety-Critical Scenario Generation for Autonomous Vehicles"
+    },
+    {
+      "title": "Optimal Strategies Against Generative Attacks"
+    },
+    {
+      "title": "GAMA: Generative Adversarial Multi-Object Scene Attacks"
+    },
+    {
+      "title": "Adversarial Attacks on Probabilistic Autoregressive Forecasting Models"
+    },
+    {
+      "title": "ScenarioNet: Open-Source Platform for Large-Scale Traffic Scenario Simulation and Modeling"
+    },
+    {
+      "title": "Finding and Visualizing Weaknesses of Deep Reinforcement Learning Agents"
+    },
+    {
+      "title": "Beyond Confidence: Reliable Models Should Also Consider Atypicality"
+    },
+    {
+      "title": "Overparameterisation and worst-case generalisation: friend or foe?"
+    },
+    {
+      "title": "Identifying and Benchmarking Natural Out-of-Context Prediction Problems"
+    },
+    {
+      "title": "Characterizing Structural Regularities of Labeled Data in Overparameterized Models"
+    },
+    {
+      "title": "Characterizing Structural Regularities of Labeled Data in Overparameterized Models"
+    },
+    {
+      "title": "Underspecification Presents Challenges for Credibility in Modern Machine Learning"
+    },
+    {
+      "title": "Neural Bridge Sampling for Evaluating Safety-Critical Autonomous Systems"
+    },
+    {
+      "title": "Predicting Rare Events by Shrinking Towards Proportional Odds"
+    },
+    {
+      "title": "Logistic Regression for Massive Data with Rare Events"
+    },
+    {
+      "title": "Learning Exceptional Subgroups by End-to-End Maximizing KL-Divergence"
+    },
+    {
+      "title": "Towards Compositional Adversarial Robustness: Generalizing Adversarial Training to Composite Semantic Perturbations"
+    },
+    {
+      "title": "Automated Discovery of Adaptive Attacks on Adversarial Defenses"
+    },
+    {
+      "title": "Semantic-Aware Multi-Label Adversarial Attacks"
+    },
+    {
+      "title": "GAMA: Generative Adversarial Multi-Object Scene Attacks"
+    },
+    {
+      "title": "Ensemble-Based Blackbox Attacks on Dense Prediction"
+    },
+    {
+      "title": " On Adaptive Attacks to Adversarial Example Defenses"
+    },
+    {
+      "title": "Certify or Predict: Boosting Certified Robustness with Compositional Architectures"
+    },
+    {
+      "title": "Unsegment Anything by Simulating Deformation"
+    },
+    {
+      "title": "Robust Feature-Level Adversaries are Interpretability Tools"
+    },
+    {
+      "title": "Adversarial Attack Generation Empowered by Min-Max Optimization"
+    },
+    {
+      "title": "Diversity can be Transferred: Output Diversification for White- and Black-box Attacks"
+    },
+    {
+      "title": "Variational Model Inversion Attacks"
+    },
+    {
+      "title": "DVERGE: Diversifying Vulnerabilities for Enhanced Robust Generation of Ensembles"
+    },
+    {
+      "title": "DVERGE: Diversifying Vulnerabilities for Enhanced Robust Generation of Ensembles"
+    },
+    {
+      "title": "Learning Diverse-Structured Networks for Adversarial Robustness"
+    },
+    {
+      "title": "Diversity-Driven Synthesis: Enhancing Dataset Distillation through Directed Weight Adjustment"
+    },
+    {
+      "title": "Learning to Transform Dynamically for Better Adversarial Transferability"
+    },
+    {
+      "title": "Diffusion-Based Adversarial Sample Generation for Improved Stealthiness and Controllability"
+    },
+    {
+      "title": "Towards Compositional Adversarial Robustness: Generalizing Adversarial Training to Composite Semantic Perturbations"
+    },
+    {
+      "title": "How to Fill the Optimum Set? Population Gradient Descent with Harmless Diversity"
+    }
   ]
 }
